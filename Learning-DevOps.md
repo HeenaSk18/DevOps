@@ -12,7 +12,7 @@ Learning DevOps
 - core principle
 - 3 phases
 
-  # 1 Phase
+# 1 Phase
   - Introduction
   - Linux & Networking
   - Github
