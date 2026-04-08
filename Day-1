@@ -1,0 +1,135 @@
+# What is your understanding of DevOps and Cloud Engineering?
+- DevOps 
+Dev = Developments => code, designing features and fixing bugs
+Ops = Operations => servers. networks, sercurity, scaling, and applicationg running 24/7
+
+- Traditional Model: Lack of Communication & High Risk of Failure - Waterfall model - once 6 month / 1 year
+- Silos - isolation
+- Wall of Confusion - problem and code
+- Bottlenecks - Manual Testing = slow down everything
+
+# What is DevOps
+- culture and method combines Development and Operations = one smooth team
+-Infinity Loop
+- Plan, Code, Build, Test, Release, Deploy, Operate, Monitor
+for Collaboration, Shared Responsibility, Automation
+
+# C. A. L. M. S. Framework
+- Culture -> Communication and trust
+- Automation -> Automate manual tasks
+- Lean -> Minimize waste and wait times
+- Measurement -> Use data to improve
+- Sharing -> Share Knowledge and success
+
+# DevOps Lifecycle
+- Plan, Code, Build, Test, Release, Deploy, Operate, Monitor
+
+- Left Side -> Dev heavy -> Plan, Code, Build, Test,
+- Right Side -> Ops heavy -> Release, Deploy, Operate, Monitor
+
+# CI/CD Continuous Integration / Continuous Delivery/Deployment
+- Build Automation
+- Automated Testing
+- Pipeline
+
+- Delivery
+- Deployment
+
+# Automation & Infrastructure As Code (IaC)
+- the code => blueprint 
+- IaC tool => 3rd printer
+- Infrastructure => Construction Site
+
+# What is Cloud Computing 
+- On- Demand
+- Pay-as-you-go
+- Broad Network Access
+- Scalability
+- Speed
+- Reliability
+- Elasticity
+- Cost Efficiency
+- Global Reach
+
+# Cloud Service Models (IaaS, PaaS, SaaS)
+- IaaS (Infrastructure as a Service) -> AWS EC2, Google Compute Engine OS and Apps
+- PaaS (Platform as a Service) -> Heroku, Google App Engine only Code
+- SaaS (Software as a Service) -> Gmail, Salesforce, Dropbox nothing but settings
+
+# Cloud Deployment Models
+- Public Cloud -> Shared many, cheap, efficient -> AWS, Azure, Google Cloud (GCP)
+- Private Cloud -> personal, secure, expensive -> on-premise
+- Hybrid Cloud -> private space, public infrastructure -> public and private together
+- Multi-Cloud - AWS and Azure at the same time
+
+# Real IT & DevOps
+- Source Control (Git)
+- CI Server (Jenkins/GitHub Action)
+- Artifact Registry
+- Cloud Deploy  
+
+Code -> Repository -> CI Pipeline -> Testig -> Deployment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
